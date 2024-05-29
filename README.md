@@ -11,7 +11,7 @@
 
 ## Preamble - Open Kanban v2 Goal
 * I wrote Open Kanban in 2013, unbelievable but it's been now more than 11 years since this open source method was summarized and shared freely with the world.
-* There is a new sponsor for the project my new company Granata Consulting, the successor to Agile Lion.
+* There is a new sponsor for this method, my new company Granata Consulting, the successor to Agile Lion.
 * After all these years I have learned a lot, and done a lot in the Agile and Lean consulting space, my goal is to update Open Kanban to a world where remote work is common, and Kanban has many commercial alternatives, yet the core of the method is the same: a better way to work, with more flow, and as little process as possible.
 
 **Joseph Hurtado, Author Open Kanban**
