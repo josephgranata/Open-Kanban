@@ -1,4 +1,4 @@
-# Open Kanban 
+# Open Kanban Beta 2.0
 
 | Open Kanban Metadata |||
 | :------------ | -----------: | -------------------: |
