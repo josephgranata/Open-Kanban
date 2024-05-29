@@ -5,8 +5,9 @@
 | Author:     | Joseph Hurtado  | Joseph at Granata dot cc |
 | Contributor: | Annita Yegorova Hurtado | Annita at Granata dot cc |
 | Sponsor:    | Granata Consulting    | [Granata.cc](https://granata.cc) |
-| Main Repository:	| Open Kanban on GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
-| Document Name:	| Open Kanban Main | This page describes the heart of Open Kanban |
+| **New v2 Repository:**	| Open Kanban BETA v2.0  | [https://github.com/agilelion/Open-Kanban]() |
+| Original v1 Repository:	| Open Kanban on GitHub | [https://github.com/josephgranata/Open-Kanban](https://github.com/josephgranata/Open-Kanban) |
+| Document Name:	| Open Kanban Method BETA v2 | This page describes the heart of Open Kanban v2 BETA |
 | Release and License:     | **BETA 2.0** |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
 
 ## Preamble - Open Kanban v2 Goal
