@@ -14,7 +14,7 @@
 * There is a new sponsor for this method, my new company Granata Consulting, the successor to Agile Lion.
 * After all these years I have learned a lot, and done a lot in the Agile and Lean consulting space, my goal is to update Open Kanban to a world where remote work is common, and Kanban has many commercial alternatives, yet the core of the method is the same: a better way to work, with more flow, and as little process as possible.
 
-**Joseph Hurtado, Author Open Kanban**
+_Joseph Hurtado, Author Open Kanban_
 
 ## Our Movement for a Free Open Kanban
 Open Kanban is a movement to make the core values and principles of Kanban available to all. It is inspired by the Open Source [movement](https://en.wikipedia.org/wiki/Open-source_software) goal to give software users and developers the four essential freedoms of [free software.](http://www.gnu.org/philosophy/free-sw.html)
