@@ -2,12 +2,19 @@
 
 | Open Kanban Metadata |||
 | :------------ | -----------: | -------------------: |
-| Author:     | Joseph Hurtado  | Joseph at AgileLion dot com |
-| Contributor: | Annita Yegorova Hurtado | Annita at AgileLion dot com |
-| Sponsor:    | AgileLion Institute     | [AgileLion.com](http://agilelion.com) |
+| Author:     | Joseph Hurtado  | Joseph at Granata dot cc |
+| Contributor: | Annita Yegorova Hurtado | Annita at Granata dot cc |
+| Sponsor:    | Granata Consulting    | [Granata.cc](https://granata.cc) |
 | Main Repository:	| Open Kanban on GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
 | Document Name:	| Open Kanban Main | This page describes the heart of Open Kanban |
-| Release and License:     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
+| Release and License:     | **BETA 2.0** |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
+
+## Preamble - Open Kanban v2 Goal
+* I wrote Open Kanban in 2013, unbelievable but it's been now more than 11 years since this open source method was summarized and shared freely with the world.
+* There is a new sponsor for the project: Granata Consulting, the successor to Agile Lion.
+* After all these years I have learned a lot, and done a lot in the Agile and Lean consulting space, my goal is to update Open Kanban to a world where remote work is common, and Kanban has many commercial alternatives, yet the core of the method is the same: a better way to work, with more flow, and as little process as possible.
+
+**Joseph Hurtado, Author Open Kanban**
 
 ## Our Movement for a Free Open Kanban
 Open Kanban is a movement to make the core values and principles of Kanban available to all. It is inspired by the Open Source [movement](https://en.wikipedia.org/wiki/Open-source_software) goal to give software users and developers the four essential freedoms of [free software.](http://www.gnu.org/philosophy/free-sw.html)
